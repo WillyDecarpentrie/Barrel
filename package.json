@@ -1,7 +1,7 @@
 {
   "name": "com.willydecarpentrie.barrel",
   "displayName": "Mon Super Tonneau",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "unity": "2022.3",
   "description": "Ceci est un le package d'un tonneau fait a la main",
   "documentationUrl": "https://github.com/willydecarpentrie/barrel#readme",
@@ -20,7 +20,7 @@
     {
       "displayName": "Scene d'exemple'",
       "description": "Une scène simple dans lequel on retrouve un tonneau",
-      "path": "Samples~/"
+      "path": "Samples/"
     }
   ]
 }
