@@ -1,0 +1,27 @@
+{
+  "name": "com.WillyDecarpentrie.barrel",
+  "displayName": "Ton Super Tonneau",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "This is a barrel",
+  "documentationUrl": "https://github.com/WillyDecarpentrie/barrel#readme",
+  "changelogUrl": "https://github.com/WillyDecarpentrie/barrel/releases",
+  "licensesUrl": "https://github.com/WillyDecarpentrie/barrel/blob/main/LICENSE",
+  "keywords": ["inventaire", "rpg", "outils", "runtime"],
+  "author": {
+    "name": "Willy / WillyDecarpentrie",
+    "email": "willy@decarpentrie.ca",
+    "url": "https://google.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.inputsystem": "1.5.1"
+  },
+  "samples": [
+    {
+      "displayName": "Exemple Basique",
+      "description": "Une scène simple montrant l'utilisation de base de l'asset.",
+      "path": "Samples~/Exemple Basique"
+    }
+  ]
+}
