@@ -21,7 +21,7 @@
     {
       "displayName": "Exemple Basique",
       "description": "Une scène simple montrant l'utilisation de base de l'asset.",
-      "path": "Samples~/Exemple Basique"
+      "path": "Samples~/SampleScene"
     }
   ]
 }
