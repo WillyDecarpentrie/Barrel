@@ -14,7 +14,7 @@
     "url": "https://google.com"
   },
   "dependencies": {
-    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.textmeshpro": "3.0.6"
   },
   "samples": [
     {
