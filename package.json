@@ -1,15 +1,15 @@
 {
-  "name": "com.WillyDecarpentrie.barrel",
+  "name": "com.willydecarpentrie.barrel",
   "displayName": "Ton Super Tonneau",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "unity": "2022.3",
   "description": "This is a barrel",
-  "documentationUrl": "https://github.com/WillyDecarpentrie/barrel#readme",
-  "changelogUrl": "https://github.com/WillyDecarpentrie/barrel/releases",
-  "licensesUrl": "https://github.com/WillyDecarpentrie/barrel/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/willydecarpentrie/barrel#readme",
+  "changelogUrl": "https://github.com/willydecarpentrie/barrel/releases",
+  "licensesUrl": "https://github.com/willydecarpentrie/barrel/blob/main/LICENSE",
   "keywords": ["inventaire", "rpg", "outils", "runtime"],
   "author": {
-    "name": "Willy / WillyDecarpentrie",
+    "name": "Willy / willydecarpentrie",
     "email": "willy@decarpentrie.ca",
     "url": "https://google.com"
   },
