@@ -1,13 +1,13 @@
 {
   "name": "com.willydecarpentrie.barrel",
-  "displayName": "Ton Super Tonneau",
-  "version": "0.1.7",
+  "displayName": "Mon Super Tonneau",
+  "version": "0.1.8",
   "unity": "2022.3",
-  "description": "This is a barrel",
+  "description": "Ceci est un le package d'un tonneau fait a la main",
   "documentationUrl": "https://github.com/willydecarpentrie/barrel#readme",
   "changelogUrl": "https://github.com/willydecarpentrie/barrel/releases",
   "licensesUrl": "https://github.com/willydecarpentrie/barrel/blob/main/LICENSE",
-  "keywords": ["inventaire", "rpg", "outils", "runtime"],
+  "keywords": ["rpg", "outils", "runtime"],
   "author": {
     "name": "Willy / willydecarpentrie",
     "email": "willy@decarpentrie.ca",
@@ -18,8 +18,8 @@
   },
   "samples": [
     {
-      "displayName": "Exemple Basique",
-      "description": "Une scène simple montrant l'utilisation de base de l'asset.",
+      "displayName": "Scene d'exemple'",
+      "description": "Une scène simple dans lequel on retrouve un tonneau",
       "path": "Samples/SampleScene"
     }
   ]
