@@ -1,7 +1,7 @@
 {
   "name": "com.willydecarpentrie.barrel",
   "displayName": "Ton Super Tonneau",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "unity": "2022.3",
   "description": "This is a barrel",
   "documentationUrl": "https://github.com/willydecarpentrie/barrel#readme",
