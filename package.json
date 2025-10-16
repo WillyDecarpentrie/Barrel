@@ -20,7 +20,7 @@
     {
       "displayName": "Scene d'exemple'",
       "description": "Une scène simple dans lequel on retrouve un tonneau",
-      "path": "Samples/SampleScene"
+      "path": "Samples~/"
     }
   ]
 }
